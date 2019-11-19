@@ -1,0 +1,1 @@
+vectorization.py -- time() function doesn't works properly getting 0 time difference between tics and tocs
